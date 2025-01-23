@@ -9,7 +9,9 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-fobia&layout=compact&langs_count=7&theme=radical"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PH-fobia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
- :laughing::dollar: Este é meu Octocat na versão The Office!
+
+  
+ # :laughing::dollar: Este é meu Octocat na versão The Office!
 
   
 ![octocat-1737491230855](https://github.com/user-attachments/assets/eec5d6ff-2a0f-483d-8124-114f487ac982)
