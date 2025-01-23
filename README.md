@@ -1,6 +1,8 @@
 # :star2::smile: Bem vindo a minha página do Github
 ## :boy: Meu nome é Paulo Henrique e meu nome de úsuario é PH-fobia!
-- :blue_book: Atualmente estou aprendendo:
+
+
+- # :blue_book: Atualmente estou aprendendo:
   
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width= "50" height= "50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width= "50" height= "50" />
 
